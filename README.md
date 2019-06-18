@@ -17,7 +17,7 @@ For this project, I was interested in using Kaggle's data to :
 ## File Description
    There is a jupyteer notebook available which will help you to guide through the above questions 
 ## Results
-   With the help of label encoder and TfidfVectorizer, features were easily extracted and were able to classify the data.
+   With the help of label encoder and TfidfVectorizer, features were easily extracted and was able to classify the data.
    Used Random forest classifier and naive-bayes classifier to classify the data .
    
 ## Acknowledgements
