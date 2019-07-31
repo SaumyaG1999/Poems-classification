@@ -1,7 +1,7 @@
 ## Table of contents
 
   1. [**Installation**](#Installation)
-  2. [**Project Motivation**](#ProjectMotivation)
+  2. [**Project Motivation**](#Project)
   3. [**File Description**](#FileDescription)
   4. [**Results**](#Results)
   5. [**Acknowledgements**](#Acknowledgements)
