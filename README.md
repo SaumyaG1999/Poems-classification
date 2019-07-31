@@ -21,4 +21,5 @@ For this project, I was interested in using Kaggle's data to :
    Used Random forest classifier and naive-bayes classifier to classify the data .
    
 ## Acknowledgements
-Must give credit to the [kaggle](https://www.kaggle.com/) for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link [here](https://www.kaggle.com/jatindersehdev/poetry-analysis-data). Otherwise ,feel free to use the code as you would like! 
+* Must give credit to the [kaggle](https://www.kaggle.com/) for the data.
+* You can find the Licensing for the data and other descriptive information at the Kaggle link [here](https://www.kaggle.com/jatindersehdev/poetry-analysis-data). Otherwise ,feel free to use the code as you would like! 
