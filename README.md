@@ -11,7 +11,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation
 For this project, I was interested in using Kaggle's data to :
- 1. Classify the poems dataset into the different genres using different features .
+ 1. Classify the poems dataset into the different genres.
  2. To analyse the accuracy of the 2 different classifiers on the dataset.
  
 ## File Description
