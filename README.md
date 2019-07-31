@@ -1,6 +1,6 @@
 ## Table of contents
 
-  1. **Installation**
+  1. [**Installation**](#Tnstallation)
   2. **Project Motivation**
   3. **File Description**
   4. **Results**
