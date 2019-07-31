@@ -1,10 +1,10 @@
 ## Table of contents
 
   1. [**Installation**](#Installation)
-  2. [**Project Motivation**](#Project Motivation)
-  3. [**File Description**](#File Description)
+  2. [**Project Motivation**](#ProjectMotivation)
+  3. [**File Description**](#FileDescription)
   4. [**Results**](#Results)
-  5. [**Acknowledgements**](# Acknowledgements)
+  5. [**Acknowledgements**](#Acknowledgements)
   
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
@@ -21,4 +21,4 @@ For this project, I was interested in using Kaggle's data to :
    Used Random forest classifier and naive-bayes classifier to classify the data .
    
 ## Acknowledgements
-Must give credit to the [kaggle](https://www.kaggle.com/) for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link https://www.kaggle.com/jatindersehdev/poetry-analysis-data. Otherwise ,feel free to use the code as you would like! 
+Must give credit to the [kaggle](https://www.kaggle.com/) for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link [here](https://www.kaggle.com/jatindersehdev/poetry-analysis-data). Otherwise ,feel free to use the code as you would like! 
